@@ -1,5 +1,6 @@
-import { galleryItems } from './gallery-items.js';
+import { galleryItems } from "./gallery-items.js";
 // Change code below this line
+
 console.log(galleryItems);
 
 const galleryMain = document.querySelector(".gallery");
@@ -34,8 +35,3 @@ function createGalleryItems(galleryItems) {
     )
     .join("");
 }
-Footer
-© 2022 GitHub, Inc.
-Footer navigation
-Terms
-console.log(galleryItems);
